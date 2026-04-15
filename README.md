@@ -3,7 +3,6 @@
 **DigiRakshak** is a comprehensive digital safety and cybersecurity awareness platform designed to empower users with the knowledge and skills needed to navigate the digital world safely. Through interactive simulations and educational modules, users learn to identify, prevent, and report various digital threats and scams.
 
 ---
-
 ## 🚀 Key Features
 
 ### 🎮 Interactive Simulators
